@@ -2,7 +2,7 @@
 
 ![download](README.assets/download.jpeg)
 
-
+Video recording of the overview: https://youtu.be/yVEhmXw2xYQ
 
 ## Introduction
 
